@@ -122,7 +122,7 @@ $ nvm ls-remote
 
 ## SECTION #4
 
-Video # 4 - [Install Python](https://player.vimeo.com/video/355777539)
+Video # 4 - [Install Python](https://player.vimeo.com/video/355778680)
 
 1. Install Prerequisites
 ```
