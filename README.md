@@ -3,8 +3,7 @@
 
 ## SECTION #1
 
-Video # 1 - Introduction and Google Cloud server setup
-[![image](https://github.com/josuebatista/blockchainapp/assets/25143822/a6c598bd-4d95-4d79-9673-a91f1afbe1ea)](https://player.vimeo.com/video/355777539?h=1527f93fe5)
+Video # 1 - [Introduction and Google Cloud server setup](https://player.vimeo.com/video/355777539?h=1527f93fe5)
 
 This video shows you how to create a brand new virtual machine (VM) on Google Cloud.  
 To create your own free Google Cloud account, go to [https://cloud.google.com/free/](https://cloud.google.com/free/)  
@@ -12,7 +11,7 @@ To download PuTTY go to [https://www.chiark.greenend.org.uk/~sgtatham/putty/late
 
 ## SECTION #2
 
-[Video # 2 - Install Docker, Docker Compose, and Git](https://player.vimeo.com/video/355777916)
+Video # 2 - [Install Docker, Docker Compose, and Git](https://player.vimeo.com/video/355777916)
 
 1. SET UP THE REPOSITORY
 
@@ -95,7 +94,7 @@ $ docker-compose --version
 
 ## SECTION #3
 
-Video # 3 - Install Node.js, the Node.js Package Manager (NPM), and the Node.js Version Manager (NVM) - [Video URL](https://player.vimeo.com/video/355778293)
+Video # 3 - [Install Node.js, the Node.js Package Manager (NPM), and the Node.js Version Manager (NVM)](https://player.vimeo.com/video/355778293)
 
 1. Refresh your local package index by typing:
 ```
@@ -123,7 +122,7 @@ $ nvm ls-remote
 
 ## SECTION #4
 
-Video # 4 - Install Python - <a href="https://player.vimeo.com/video/355778680" target="_blank">Video URL</a>
+Video # 4 - [Install Python](https://player.vimeo.com/video/355777539)
 
 1. Install Prerequisites
 ```
@@ -148,7 +147,7 @@ $ sudo make altinstall
 
 ## SECTION #5
 
-Video # 5 - Run the Blockchain Insurance App - [Video URL](https://player.vimeo.com/video/356289383)
+Video # 5 - [Run the Blockchain Insurance App](https://player.vimeo.com/video/356289383)
 
 1. Clone the repository:
 ```
