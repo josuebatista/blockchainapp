@@ -12,7 +12,7 @@ To download PuTTY go to [https://www.chiark.greenend.org.uk/~sgtatham/putty/late
 
 ## SECTION #2
 
-Video # 2 - Install Docker, Docker Compose, and Git - [Video URL](https://player.vimeo.com/video/355777916)
+[Video # 2 - Install Docker, Docker Compose, and Git](https://player.vimeo.com/video/355777916)
 
 1. SET UP THE REPOSITORY
 
@@ -123,7 +123,7 @@ $ nvm ls-remote
 
 ## SECTION #4
 
-Video # 4 - Install Python - [Video URL](https://player.vimeo.com/video/355778680)
+Video # 4 - Install Python - [Video URL](https://player.vimeo.com/video/355778680){:target="_blank"}
 
 1. Install Prerequisites
 ```
