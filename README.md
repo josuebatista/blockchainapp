@@ -1,6 +1,31 @@
 ![watch_me_build_blockchain_insurance_app](https://github.com/josuebatista/blockchainapp/assets/25143822/bddd6335-3cff-496c-8901-3889ff1e7649)
 # Watch Me Build A Blockchain Insurance App (5 Videos)
 
+This project demonstrates the application of blockchain technology in the insurance domain for efficient claim processing. It involves four main participants: insurance companies, police, repair shops, and product shops, each having their own dedicated peer node.
+
+The insurance company peer handles the insurance coverage for products and manages the claim processing. The police peer verifies theft claims, ensuring their legitimacy. Repair shop peers are responsible for repairing the products, while the shop peers focus on product sales to consumers.
+
+Running this application on the cloud offers several benefits. It enables easy customization of the network infrastructure, including node locations, hardware specifications (CPU and RAM), endorsement policies for consensus, and the ability to add new organizations and members to the network. This flexibility ensures scalability, adaptability, and streamlined operations within the insurance ecosystem.
+
+## Technologies Used
+
+The following technologies were used in the development of the Blockchain Insurance App:
+
+- [Google Cloud](https://cloud.google.com/) - Cloud computing platform
+- [Docker](https://www.docker.com/) - Containerization platform
+- [Docker Compose](https://docs.docker.com/compose/) - Tool for defining and running multi-container Docker applications
+- [Git](https://git-scm.com/) - Version control system
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime environment
+- [NPM](https://www.npmjs.com/) - Node.js Package Manager
+- [NVM](https://github.com/nvm-sh/nvm) - Node.js Version Manager
+
+- [Python](https://www.python.org/) - Programming language
+- [GitHub](https://github.com/) - Version control and collaboration platform
+
+- [Vimeo](https://vimeo.com/) - Video hosting platform
+
+
 ## SECTION #1
 
 Video # 1 - [Introduction and Google Cloud server setup](https://player.vimeo.com/video/355777539?h=1527f93fe5)
